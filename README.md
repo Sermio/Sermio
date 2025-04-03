@@ -64,3 +64,6 @@
 <p align="left">https://sergio-mt-flutter-portfolio.web.app/</p>
 
 ###
+
+<img src="https://raw.githubusercontent.com/sermio/sermio/output/snake.svg" alt="Snake animation" />
+
